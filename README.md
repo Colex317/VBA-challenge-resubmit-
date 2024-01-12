@@ -1,4 +1,4 @@
-VBA scripting to analyze generated stock market data
+VBA Scripting to Analyze Generated Stock Market Data
     
     Assignment Description:
       
@@ -14,9 +14,9 @@ VBA scripting to analyze generated stock market data
       
       - Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume". 
       
-      - Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
+      - Use conditional formatting that will highlight positive changes in green and negative changes in red.
      
-      - Make sure that the script acts the same on every sheet.
+      - Ensure the script acts the same on every sheet.
 
 Citation:
 Title: 06-StuCreditCardChecker-CellComparison Author: Hunter Hollis Date: 28 December 2023 Type: Source Code Availability: Provided for class activity 2.3 (#06)
